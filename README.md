@@ -1,2 +1,2 @@
 # github_workshop
-worshop conducted in python lab
+workshop conducted in python lab for enhancement of skills 
